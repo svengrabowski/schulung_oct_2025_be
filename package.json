@@ -1,0 +1,14 @@
+{
+  "name": "angular-grundlagen-recipe-backend",
+  "version": "1.0.0",
+  "description": "Mock Backend für die Angular Grundlagen Schulung",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
