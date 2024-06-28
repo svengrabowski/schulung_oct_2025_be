@@ -4,12 +4,12 @@
             "id": "1",
             "name": "Pizza",
             "img": "/recipe_pictures/pizza.jpg",
-            "servings": 4,
+            "portions": 4,
             "duration": {
                 "unit": "Min.",
                 "value": 30
             },
-            "difficulty": "Mittel",
+            "level_of_difficulty": "Mittel",
             "ingridients": [
                 {
                     "unit": "g",
@@ -68,12 +68,12 @@
             "id": "2",
             "name": "Pfannkuchen",
             "img": "/recipe_pictures/pfannkuchen.jpg",
-            "servings": 4,
+            "portions": 4,
             "duration": {
                 "unit": "Min.",
                 "value": 10
             },
-            "difficulty": "Einfach",
+            "level_of_difficulty": "Einfach",
             "ingridients": [
                 {
                     "unit": "",
@@ -107,12 +107,12 @@
             "id": "3",
             "name": "Tacos",
             "img": "/recipe_pictures/tacos.jpg",
-            "servings": 4,
+            "portions": 4,
             "duration": {
                 "unit": "Min.",
                 "value": 20
             },
-            "difficulty": "Einfach",
+            "level_of_difficulty": "Einfach",
             "ingridients": [
                 {
                     "unit": "g",
@@ -201,12 +201,12 @@
             "id": "5",
             "name": "Currywurst - Soße",
             "img": "/recipe_pictures/currywurst.jpg",
-            "servings": 2,
+            "portions": 2,
             "duration": {
                 "unit": "Min.",
                 "value": 5
             },
-            "difficulty": "Einfach",
+            "level_of_difficulty": "Einfach",
             "ingridients": [
                 {
                     "unit": "g",
@@ -260,12 +260,12 @@
             "id": "6",
             "name": "Kohlrouladen",
             "img": "/recipe_pictures/kohlrouladen.jpg",
-            "servings": 4,
+            "portions": 4,
             "duration": {
                 "unit": "Min.",
                 "value": 50
             },
-            "difficulty": "Mittel",
+            "level_of_difficulty": "Mittel",
             "ingridients": [
                 {
                     "unit": "",
@@ -334,12 +334,12 @@
             "id": "7",
             "name": "Spaghetti Bolognese",
             "img": "/recipe_pictures/spaghetti.jpg",
-            "servings": 4,
+            "portions": 4,
             "duration": {
                 "unit": "Min.",
                 "value": 20
             },
-            "difficulty": "Mittel",
+            "level_of_difficulty": "Mittel",
             "ingridients": [
                 {
                     "unit": "",
