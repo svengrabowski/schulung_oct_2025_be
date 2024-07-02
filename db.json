@@ -5,6 +5,7 @@
             "name": "Pizza",
             "img": "/recipe_pictures/pizza.jpg",
             "portions": 4,
+            "lastEdited": "2.7.2024, 09:26:00",
             "duration": {
                 "unit": "Min.",
                 "value": 30
@@ -69,6 +70,7 @@
             "name": "Pfannkuchen",
             "img": "/recipe_pictures/pfannkuchen.jpg",
             "portions": 4,
+            "lastEdited": "2.7.2024, 09:26:00",
             "duration": {
                 "unit": "Min.",
                 "value": 10
@@ -108,6 +110,7 @@
             "name": "Tacos",
             "img": "/recipe_pictures/tacos.jpg",
             "portions": 4,
+            "lastEdited": "2.7.2024, 09:26:00",
             "duration": {
                 "unit": "Min.",
                 "value": 20
@@ -202,6 +205,7 @@
             "name": "Currywurst - Soße",
             "img": "/recipe_pictures/currywurst.jpg",
             "portions": 2,
+            "lastEdited": "2.7.2024, 09:26:00",
             "duration": {
                 "unit": "Min.",
                 "value": 5
@@ -261,6 +265,7 @@
             "name": "Kohlrouladen",
             "img": "/recipe_pictures/kohlrouladen.jpg",
             "portions": 4,
+            "lastEdited": "2.7.2024, 09:26:00",
             "duration": {
                 "unit": "Min.",
                 "value": 50
@@ -335,6 +340,7 @@
             "name": "Spaghetti Bolognese",
             "img": "/recipe_pictures/spaghetti.jpg",
             "portions": 4,
+            "lastEdited": "2.7.2024, 09:26:00",
             "duration": {
                 "unit": "Min.",
                 "value": 20
