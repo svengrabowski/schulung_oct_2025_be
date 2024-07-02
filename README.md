@@ -16,7 +16,7 @@ Basierend auf der db.json werden folgende Routen erzeugt:
 ```
 GET    /recipes
 GET    /recipes/:id
-POST   /rescipes
+POST   /recipes
 PUT    /recipes/:id
 DELETE /recipes/:id
 ```
