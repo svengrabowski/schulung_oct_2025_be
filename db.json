@@ -11,7 +11,7 @@
                 "value": 30
             },
             "level_of_difficulty": "Mittel",
-            "ingridients": [
+            "ingredients": [
                 {
                     "unit": "g",
                     "quantity": 200,
@@ -76,7 +76,7 @@
                 "value": 10
             },
             "level_of_difficulty": "Einfach",
-            "ingridients": [
+            "ingredients": [
                 {
                     "unit": "",
                     "quantity": 3,
@@ -116,7 +116,7 @@
                 "value": 20
             },
             "level_of_difficulty": "Einfach",
-            "ingridients": [
+            "ingredients": [
                 {
                     "unit": "g",
                     "quantity": 100,
@@ -211,7 +211,7 @@
                 "value": 5
             },
             "level_of_difficulty": "Einfach",
-            "ingridients": [
+            "ingredients": [
                 {
                     "unit": "g",
                     "quantity": 10,
@@ -271,7 +271,7 @@
                 "value": 50
             },
             "level_of_difficulty": "Mittel",
-            "ingridients": [
+            "ingredients": [
                 {
                     "unit": "",
                     "quantity": 1,
@@ -346,7 +346,7 @@
                 "value": 20
             },
             "level_of_difficulty": "Mittel",
-            "ingridients": [
+            "ingredients": [
                 {
                     "unit": "",
                     "quantity": 1,
