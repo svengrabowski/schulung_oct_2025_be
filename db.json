@@ -1,4 +1,22 @@
 {
+    "ingredients": [
+        {
+            "id": "0",
+            "value": "Mehl"
+        },
+        {
+            "id": "1",
+            "value": "Eier"
+        },
+        {
+            "id": "2",
+            "value": "Hefe"
+        },
+        {
+            "id": "3",
+            "value": "Tomaten"
+        }
+    ],
     "recipes": [
         {
             "id": "1",
@@ -409,6 +427,46 @@
                 }
             ],
             "preparation": "Zwiebel, Knoblauch und Möhre schälen und in feine Würfel schneiden.\n\nHackfleisch in die Pfanne geben, langsam erhitzen und im eigenen Fett unter Rühren anbraten. Salzen und pfeffern. Zwiebeln, Knoblauch und Möhren dazugeben und kurz mitbraten. Mit der Brühe ablöschen. Dann Tomatenmark, Oregano, die stückigen Tomaten und Tomatenketchup unterrühren. Etwa 40 Minuten einkochen lassen.\n\nSpaghetti in Salzwasser bissfest kochen. Durch ein Sieb abgießen, mit kaltem Wasser abschrecken und zusammen mit der Sauce servieren.\n\nTipp: Die Sauce Bolognese schmeckt auch lecker zu Reis."
+        }
+    ],
+    "environment-configurations": [
+        {
+            "id": "0",
+            "environment": "prod",
+            "themeId": "0",
+            "baseUrl": "https://someProdUrl/"
+        },
+        {
+            "id": "1",
+            "environment": "dev",
+            "themeId": "0",
+            "baseUrl": "https://devUrl/"
+        },
+        {
+            "id": "2",
+            "environment": "stage",
+            "themeId": "0",
+            "baseUrl": "https://stageUrl/"
+        },
+        {
+            "id": "3",
+            "environment": "local",
+            "themeId": "1",
+            "baseUrl": "http://localhost:3000/"
+        }
+    ],
+    "themes": [
+        {
+            "id": "0",
+            "color": "green",
+            "background": "light",
+            "icon": "https://linktoicon/icon.ico"
+        },
+        {
+            "id": "0",
+            "color": "red",
+            "background": "dark",
+            "icon": "https://linktoicon/icon.ico"
         }
     ]
 }
